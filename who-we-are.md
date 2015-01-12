@@ -18,7 +18,7 @@ My homebase is, so far, located at [GitHub](https://github.com/Prytanis).
 
 My open notebook is also on GitHub at a [subordinate page](https://github.com/Prytanis/HIST3907B-ResearchNotes).
 
-I can be reached through twitter @PrimeMinisterK.
+I can be reached through Twitter [@PrimeMinisterK](http://twitter.com/@PrimeMinisterK).
 
 ### Allison Kuhl
 
