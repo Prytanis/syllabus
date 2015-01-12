@@ -11,6 +11,12 @@ PA406 - Mondays and Wednesdays, by chance or appointment. Sometimes I may be fou
 My online HQ is at [this site.](http://www.MATTHEWPORTFOLIO.COM)
 My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes) 
 
+### Patrick Kelley
+
+My homebase is, so far, located at [GitHub](https://github.com/Prytanis).
+
+My open notebook is also on GitHub at a [subordinate page](https://github.com/Prytanis/HIST3907B-ResearchNotes).
+
 ### Allison Kuhl
 
 My website is [here.](http://2kuhl4u.wordpress.com/)
