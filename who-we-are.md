@@ -14,7 +14,7 @@ My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHis
 ### Patrick Kelley
 ![alt text](https://pbs.twimg.com/profile_images/2746337559/1460ca3cc59a2459ec258159eb299b70.jpeg "Gorgeous, huh?  It's just your reflection in my forehead.")
 
-My homebase is, so far, located at [GitHub](https://github.com/Prytanis).
+My homebase is, so far, located at [GitHub](https://github.com/Prytanis).  I also have a [blog](http://primeministerkelley.blogspot.ca/) for documentation, as per the assignment.
 
 My open notebook is also on GitHub at a [subordinate page](https://github.com/Prytanis/HIST3907B-ResearchNotes).
 
