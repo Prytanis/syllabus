@@ -12,7 +12,7 @@ My online HQ is at [this site.](http://www.MATTHEWPORTFOLIO.COM)
 My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes) 
 
 ### Patrick Kelley
-![alt text][https://pbs.twimg.com/profile_images/2746337559/1460ca3cc59a2459ec258159eb299b70.jpeg]
+![alt text](https://pbs.twimg.com/profile_images/2746337559/1460ca3cc59a2459ec258159eb299b70.jpeg "Gorgeous, Huh?")
 
 My homebase is, so far, located at [GitHub](https://github.com/Prytanis).
 
